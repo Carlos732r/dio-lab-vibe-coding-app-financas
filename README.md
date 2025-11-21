@@ -1,5 +1,7 @@
 # 💸 App de Finanças Conversional Pessoais do Carlos Henrique com Vibe Coding
 
+Esse projeto foi desenvolvido coodesafio de projeto da  DIO de Vibe Coding utilizando o Lovable e o copilot Web.
+
 PRD refinado no Copilot Web: 
 ````markdown
 PRD – Aplicativo de Organização de Finanças Pessoais Conversacional
